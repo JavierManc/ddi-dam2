@@ -9,3 +9,10 @@ body{
 #nav_title{
     font-size: 25px;
 }
+
+#texto{
+    position: relative;
+    top: 250px;
+    left: 100px;
+    width: 800px;
+}
