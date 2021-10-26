@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+    background-image: url(pics/laptop-with-notebook-and-glasses-on-table.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#nav_title{
+    font-size: 25px;
+}
